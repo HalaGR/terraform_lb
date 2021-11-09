@@ -23,10 +23,10 @@ terraform apply
 ![ec2 image](/images/EC2.png)
 
 * Load Balancer:
-![lb image](/images/lb.png)
+![lb image](/images/LB.png)
 
 *  Target Group with the 2 EC2 instances created above:
-![tg image](/images/sg.png)
+![tg image](/images/SG.png)
 
 
 
